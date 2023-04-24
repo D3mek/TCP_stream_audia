@@ -257,3 +257,5 @@ if __name__ == '__main__':
 #ak je tento modul importnuty do ineho modulu tak to vykona tuto podmienku
 if __name__ != '__main__':
     print("only main modulu!")
+
+#D3mko
